@@ -26,34 +26,6 @@ Work experience
 * Hardware Verification Engineer Intern, IBM, 2015
 * Electrical Systems Engineer Intern, Honda Aircraft Company, 2015
 * Undergraduate Research Assistant, Georgia Institute of Technology, 2014
-
-  
-Skills
-======
-* Programming
-  * Python
-  * Pytorch
-  * SQL
-  * C++
-  * Matlab
-  * Unix
-* Technical
-  * Statistical Learning
-  * Deep Learning
-  * Efficient Algorithms
-* Professional
-  * Public Speaking
-  * Techinical Writing
-  * Listening
-  * Interpresonal Communication
-  * Conflict Resolution
-  * Leadership
-
-Publications
-======
-Alexander Ritchie, Clayton Scott, Laura Balzano, Daniel Kessler, Chandra Sripada (2019). [Supervised principal component analysis via manifold optimization](http://academicpages.github.io/files/dsw2019lspca.pdf). IEEE Data Science Workshop (DSW)
-
-Kai Yu, Alexander Ritchie, Yiqi Mao, Martin L Dunn, H Jerry Qi (2015). [Controlled Sequential Shape Changing Components by 3D Printing of Shape Memory Polymer Multimaterials](http://academicpages.github.io/files/controlled_shape.pdf). Procedia of The International Union of Theoretical and Applied Mechanics (IUTAM)
   
 Teaching
 ======
@@ -83,5 +55,30 @@ Service
 * President - STEM Club (GTCC), 2013
 * Vice President - Phi Theta Kappa (GTCC), 2013
 * President and Founder - Chess Club (GTCC), 2012-2013
+ 
+Skills
+======
+* Programming
+  * Python
+  * Pytorch
+  * SQL
+  * C++
+  * Matlab
+  * Unix
+* Technical
+  * Statistical Learning
+  * Deep Learning
+  * Efficient Algorithms
+* Professional
+  * Public Speaking
+  * Techinical Writing
+  * Listening
+  * Interpresonal Communication
+  * Conflict Resolution
+  * Leadership
 
+Publications
+======
+Alexander Ritchie, Clayton Scott, Laura Balzano, Daniel Kessler, Chandra Sripada (2019). [Supervised principal component analysis via manifold optimization](http://academicpages.github.io/files/dsw2019lspca.pdf). IEEE Data Science Workshop (DSW)
 
+Kai Yu, Alexander Ritchie, Yiqi Mao, Martin L Dunn, H Jerry Qi (2015). [Controlled Sequential Shape Changing Components by 3D Printing of Shape Memory Polymer Multimaterials](http://academicpages.github.io/files/controlled_shape.pdf). Procedia of The International Union of Theoretical and Applied Mechanics (IUTAM)

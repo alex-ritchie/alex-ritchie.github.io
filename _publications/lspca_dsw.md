@@ -1,0 +1,1 @@
+Alexander Ritchie, Clayton Scott, Laura Balzano, Daniel Kessler, Chandra Sripada (2019). [Supervised principal component analysis via manifold optimization](http://academicpages.github.io/files/dsw2019lspca.pdf)

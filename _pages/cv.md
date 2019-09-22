@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical and Computer Engineering, University of Michigan, 2022 (expected)
+* M.S. in Electrical and Computer Engineering, University of Michigan, 2018
+* B.S. in Electrical Engineering, Georgia Tech, 2016
+* Transferred from Guilford Technical Community College, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Graduate Student Research Assistant - University of Michigan, 2017-present
+*Electrical Field Engineer Intern - ExxonMobil, 2017
+*Graduate Teaching Assistant - Georgia Tech, 2017
+*Avionics Engineer Intern, Honda Aircraft Company, 2016
+*Undergraduate Teaching Assistant - Georgia Tech, 2015 - 2016
+*Hardware Verification Engineer Intern, IBM, 2015
+*Electrical Systems Engineer Intern, Honda Aircraft Company, 2015
+*Undergraduate Research Assistant, Georgia Institute of Technology, 2014
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -54,6 +55,26 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Selected Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+Top Reviewer, NeurIPS 2019
+Best Poster - Electrical Engineering and Computer Science, MSSISS 2019
+Warren L. Batts Scholarship, 2016
+Member - Eta Kappa Nu, 2015
+Member - Phi Theta Kappa, 2013
+Graduation Marshall (GTCC), 2013
+
+Service
+======
+ECE Ambassador (Umich), 2019-2020
+Reviewer - NeurIPS, 2018-2019
+Reviewer - AISTATS, 2018
+Primary Organizer - Statistical Machine Learning Reading Group Workshop Day (Umich), 2019
+Primary Organizer - SMLRG (Umich), 2018-present
+Volunteer - Washtenaw County Jail, 2017-present
+Events Chair - Hall Council (Gatech), 2015
+President - STEM Club (GTCC), 2013
+Vice President - Phi Theta Kappa (GTCC), 2013
+President and Founder - Chess Club (GTCC), 2012-2013
+
+

@@ -30,12 +30,24 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * Pytorch
+  * SQL
+  * C++
+  * Matlab
+  * Unix
+* Technical
+  * Statistical Learning
+  * Deep Learning
+  * Efficient Algorithms
+* Professional
+  * Public Speaking
+  * Techinical Writing
+  * Listening
+  * Interpresonal Communication
+  * Conflict Resolution
+  * Leadership
 
 Publications
 ======

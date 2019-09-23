@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Posters and Presentations"
-permalink: /cv/
+permalink: /talks/
 author_profile: true
 redirect_from:
-  - /talks
+  - /presentations
 ---
 
 {% include base_path %}

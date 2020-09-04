@@ -13,11 +13,11 @@ Education
 ======
 * Ph.D in Electrical and Computer Engineering, University of Michigan, 2022 (expected) 
 * M.S. in Electrical and Computer Engineering, University of Michigan, 2018
-* B.S. in Electrical Engineering, Georgia Tech, 2016
-* Transferred from Guilford Technical Community College, 2013
+* B.S. in Electrical Engineering, Georgia Tech, 201
 
 Work experience
 ======
+* Summer Intern Mentor - SPADA Lab, University of Michigan, 2020
 * Graduate Student Research Assistant - University of Michigan, 2017-present
 * Electrical Field Engineer Intern - ExxonMobil, 2017
 * Graduate Teaching Assistant - Georgia Tech, 2017
@@ -36,7 +36,7 @@ Teaching
   
 Selected Honors and Awards
 ======
-* Top Reviewer, NeurIPS 2019
+* Best Reviewer, NeurIPS 2019
 * Best Poster - Electrical Engineering and Computer Science, MSSISS 2019
 * Warren L. Batts Scholarship, 2016
 * Member - Eta Kappa Nu, 2015
@@ -45,12 +45,13 @@ Selected Honors and Awards
 
 Service
 ======
-* ECE Ambassador (Umich), 2019-2020
-* Reviewer - NeurIPS, 2018-2019
+* Reviewer - ICML, 2020
+* Reviewer - NeurIPS, 2018-2020
 * Reviewer - AISTATS, 2018
+* ECE Ambassador (Umich), 2019-2020
 * Primary Organizer - Statistical Machine Learning Reading Group Workshop Day (Umich), 2019
-* Primary Organizer - SMLRG (Umich), 2018-present
-* Volunteer - Washtenaw County Jail, 2017-present
+* Primary Organizer - SMLRG (Umich), 2018-2020
+* Volunteer - Washtenaw County Jail, 2017-2019
 * Events Chair - Hall Council (Gatech), 2015
 * President - STEM Club (GTCC), 2013
 * Vice President - Phi Theta Kappa (GTCC), 2013

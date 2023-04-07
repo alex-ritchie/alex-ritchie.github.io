@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Currently open to ML and Data Science opportunities in industry (bonus points for orgs focused on climate and social justice).**
-
-*I have moved to North Carolina to care for family, and I am currently on leave from my PhD program.*
+**Currently open to ML and Data Science opportunities in industry (bonus points for orgs focused on climate and social justice).** *I have moved to North Carolina to care for family, and I am currently on leave from my PhD program.*
 
 I am a Ph.D. candidate in the Signal & Image processing track of the [Electrical Engineering and Computer Science](https://eecs.engin.umich.edu/) department at [University of Michigan, Ann Arbor](https://umich.edu/research/). I am co-advised by [Clay Scott](http://web.eecs.umich.edu/~cscott/) and [Laura Balzano](https://web.eecs.umich.edu/~girasole/).
 
